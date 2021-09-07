@@ -1,0 +1,11 @@
+{
+    "folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "..\\..\\node-express-course-main\\02-express-tutorial\\navbar-app"
+		}
+	],
+    "settings": {}
+}
